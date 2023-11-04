@@ -1,0 +1,16 @@
+{
+    "Logo":"/logos/favicon.png",
+    "Title":"Portfolio",
+    "SiteURL" :"http://localhost:8080/",
+    "RedirectURL":"http://localhost:8080/",
+    "ContactYoutube":"",
+    "BotYoutube":"",
+    "BotFlowYoutube":"",
+    "AnalyticsYoutube":"",
+    "BroadcastYoutube":"",
+    "CreateTemplateYoutube":"",
+    "TemplatesYoutube":"",
+    "BotFlowSettingYoutube":"",
+    "Favicon":"/logos/favicon.ico",
+    "Partner" : 94415667756
+}
