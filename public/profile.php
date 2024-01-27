@@ -33,13 +33,13 @@
 							<div class="col-sm-3">
 								<div class="single-profile">
 									<div class="profile-txt">
-										<a href=""><i class="flaticon-themeforest"></i></a>
-										<div class="profile-icon-name">themeforest</div>
+										<a href="https://www.linkedin.com/in/rajeev-kumar-nitt/"><i class="flaticon-themeforest"></i></a>
+										<div class="bi bi-linkedin">linkedIn</div>
 									</div>
 									<div class="single-profile-overlay">
 										<div class="profile-txt">
-											<a href=""><i class="flaticon-themeforest"></i></a>
-											<div class="profile-icon-name">themeforest</div>
+											<a href="https://www.linkedin.com/in/rajeev-kumar-nitt/"><i class="flaticon-themeforest"></i></a>
+											<div class="bi bi-linkedin">linkedIn</div>
 										</div>
 									</div>
 								</div>
@@ -75,12 +75,12 @@
 							<div class="col-sm-3">
 								<div class="single-profile profile-no-border">
 									<div class="profile-txt">
-										<a href="https://github.com/RajK01?tab=repositories"><i class="flaticon-github-logo"></i></a>
+										<a href="https://github.com/RajK01"><i class="flaticon-github-logo"></i></a>
 										<div class="profile-icon-name">gitHub</div>
 									</div>
 									<div class="single-profile-overlay">
 										<div class="profile-txt">
-											<a href="https://github.com/RajK01?tab=repositories"><i class="flaticon-github-logo"></i></a>
+											<a href="https://github.com/RajK01"><i class="flaticon-github-logo"></i></a>
 											<div class="profile-icon-name">gitHub</div>
 										</div>
 									</div>
@@ -120,13 +120,13 @@
 							<div class="col-sm-3">
 								<div class="single-profile">
 									<div class="profile-txt">
-										<a href=""><i class="flaticon-squarespace-logo"></i></a>
-										<div class="profile-icon-name">squareSpace</div>
+										<a href="https://linktr.ee/rajeevk01"><i class="flaticon-squarespace-logo"></i></a>
+										<div class="profile-icon-name">LinkTree</div>
 									</div>
 									<div class="single-profile-overlay">
 										<div class="profile-txt">
-											<a href=""><i class="flaticon-squarespace-logo"></i></a>
-											<div class="profile-icon-name">squareSpace</div>
+											<a href="https://linktr.ee/rajeevk01"><i class="flaticon-squarespace-logo"></i></a>
+											<div class="profile-icon-name">LinkTree</div>
 										</div>
 									</div>
 								</div>

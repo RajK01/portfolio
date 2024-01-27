@@ -25,7 +25,7 @@
 <section id="profiles" class="profiles">
 			<div class="profiles-details">
 				<div class="section-heading text-center">
-					<h2>profiles</h2>
+					<h2>projects</h2>
 				</div>
 				<div class="container">
 					<div class="profiles-content">

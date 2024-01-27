@@ -32,7 +32,7 @@
 							<div class="col-md-6">
 								<div class="single-skill-content">
 									<div class="barWrapper">
-										<span class="progressText">adobe photoshop</span>
+										<span class="progressText">HTML</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
@@ -43,7 +43,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">adobe illustrator</span>
+										<span class="progressText">CSS</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
@@ -54,7 +54,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">mysql</span>
+										<span class="progressText">Javascript</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
@@ -80,7 +80,7 @@
 							<div class="col-md-6">
 								<div class="single-skill-content">
 									<div class="barWrapper">
-										<span class="progressText">html 5</span>
+										<span class="progressText">mysql</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
@@ -91,7 +91,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">css 3 animation</span>
+										<span class="progressText">communication</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
@@ -102,7 +102,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">communication</span>
+										<span class="progressText">Leadership</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
